@@ -7,30 +7,6 @@ The project provides a **360° view of banking operations**, helping stakeholder
 
 ---
 
-## 📂 Project Structure
-BankInsight/
-│── Banking Dashboard.pbix # Power BI dashboard
-
-│── Banking Dashboard (2025).pbix # Updated Power BI dashboard
-
-│── Banking Report.docx # Report documentation
-
-│── Banking.pptx # Project presentation
-
-│── Banking.xlsx # Dataset (Excel)
-
-│── EDA_Analysis.ipynb # Python exploratory analysis
-
-│── BG/ # Dashboard design mockups
-
-│ ├── Demo Design/ # Early dashboard designs
-
-│ ├── New Design/ # Finalized dashboard designs
-
-│ └── Old Design/ # Previous iterations
-
----
-
 ## 🚀 Features
 - **Exploratory Data Analysis (EDA)** in Python for customer trends & insights  
 - **Interactive Power BI dashboards** for deposit & loan analysis  
@@ -85,4 +61,6 @@ Feel free to fork and contribute.
 ---
 
 ## Screenshot
-Show what the dashboard looks like:- [Dashboard Preview]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/assets/image.png)
+Example: ![Dasboard Preview](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/blob/main/image)
+Example:
