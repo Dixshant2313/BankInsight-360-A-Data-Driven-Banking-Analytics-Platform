@@ -81,3 +81,8 @@ BankInsight/
 ## 📄 License
 This project is for educational and professional demonstration purposes.  
 Feel free to fork and contribute.
+
+---
+
+## Screenshot
+Show what the dashboard looks like:- [Dashboard Preview]()
