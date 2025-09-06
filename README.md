@@ -8,7 +8,7 @@ The project provides a **360° view of banking operations**, helping stakeholder
 ---
 
 ## 📂 Project Structure
-Banking_Project/
+BankInsight/
 │── Banking Dashboard.pbix # Power BI dashboard
 
 │── Banking Dashboard (2025).pbix # Updated Power BI dashboard
