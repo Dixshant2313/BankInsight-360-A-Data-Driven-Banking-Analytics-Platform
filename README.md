@@ -61,6 +61,4 @@ Feel free to fork and contribute.
 ---
 
 ## Screenshot
-Show what the dashboard looks like. - ![Alt text](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/assets/image.png)
-Example: ![Dasboard Preview](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/blob/main/image)
-Example:
+![Dasboard Preview](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/blob/main/image)
