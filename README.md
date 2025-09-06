@@ -61,4 +61,4 @@ Feel free to fork and contribute.
 ---
 
 ## Screenshot
-![Dasboard Preview](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/blob/main/image)
+Show what the dasboard looks like: ![Dasboard Preview](https://github.com/Dixshant2313/BankInsight-360-A-Data-Driven-Banking-Analytics-Platform/blob/main/image.png)
